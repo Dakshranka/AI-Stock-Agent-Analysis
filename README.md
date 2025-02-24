@@ -18,13 +18,13 @@ This project is an AI-powered stock analysis agent that provides insights into s
 - Install Dependencies
 Run the following command to install all required dependencies:
 
-** pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 # Running the Application
 
 To start the Streamlit app, run:
 
-streamlit run app.py
+``` streamlit run app.py ```
 
 # Troubleshooting
 - Speech Recognition Timeout Error.
@@ -35,15 +35,7 @@ streamlit run app.py
 - Missing Module Errors
 -- If you see module import errors (ModuleNotFoundError), ensure all dependencies are installed:
 
-pip install -r requirements.txt
-
-# Project Structure
-
-├── app.py  # Main application file
-├── requirements.txt  # Dependencies
-├── README.md  # Documentation
-├── utils  # Utility functions
-└── data  # Storage for fetched stock data
+``` pip install -r requirements.txt ```
 
 # Contributing
 
