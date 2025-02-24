@@ -1,7 +1,7 @@
-autogen
-yfinance
-matplotlib
-streamlit
-forex-python 
-speech_recognition
-langchain-community
+autogen==0.7.5
+yfinance==0.2.54
+matplotlib==3.10.0
+streamlit==1.42.2
+forex-python==1.8
+SpeechRecognition==3.10.0
+langchain-community==0.0.36
