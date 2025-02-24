@@ -6,4 +6,4 @@ streamlit==1.42.2
 forex-python==1.8
 SpeechRecognition==3.10.0
 langchain-community==0.0.36
-crewai==0.12.4
+crewai
