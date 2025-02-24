@@ -6,7 +6,6 @@ import requests
 from datetime import datetime, timedelta
 import speech_recognition as sr
 from autogen.agentchat import UserProxyAgent
-from langchain.chat_models import ChatOpenAI
 
 # 🔹 Disable Docker for AutoGen
 user_agent = UserProxyAgent("UserAgent", human_input_mode="ALWAYS", code_execution_config={"use_docker": False})
