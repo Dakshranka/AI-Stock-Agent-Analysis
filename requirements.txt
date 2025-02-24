@@ -1,0 +1,6 @@
+autogen
+yfinance
+matplotlib
+streamlit
+forex-python 
+speech_recognition
