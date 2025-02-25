@@ -38,8 +38,10 @@ To start the Streamlit app, run:
 ``` pip install -r requirements.txt ```
 
 # Contributing
-
 Feel free to open issues or submit pull requests to improve the project!
+
+Daksh Ranka 
+Emailid: rankadaksh4@gmail.com
 
 # License
 
